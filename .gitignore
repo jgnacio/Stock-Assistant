@@ -1,0 +1,14 @@
+*.json
+build
+data
+dist
+Salida
+Tests
+Utils/Media
+*.spec
+__pycache__
+notas.md
+Entregable
+Older Versions
+Logs
+Backup
